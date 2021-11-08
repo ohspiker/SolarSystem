@@ -1,3 +1,8 @@
+ARE YOU A CURRENT STUDENT IN CSCI3161 AT DALHOUSIE? 
+STOP RIGHT THERE!
+Plagiarism is not cool, and they do check these things!
+Take another look at your assignment and course notes before you think of stealing my work :)
+
 CSCI3161 Assignment 2: Solar System
 Olivia Handspiker
 B00799397
